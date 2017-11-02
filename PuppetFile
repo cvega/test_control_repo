@@ -5,6 +5,6 @@ mod "puppetlabs/inifile", '1.6.0'
 mod "puppetlabs/stdlib", '4.17.0'
 mod "puppetlabs/concat", '2.2.0'
 
-mod 'hpsu_linux_base',
-  :git => 'git@vaprd078.schneider.com:puppet/hpsu_linux_base.git',
+mod 'test_hpsu_linux_base',
+  :git => 'git@github.com:cvega/test_hpsu_linux_base.git'
   :tag => 'master'
