@@ -7,4 +7,4 @@ mod "puppetlabs/concat", '2.2.0'
 
 mod 'test_hpsu_linux_base',
   :git => 'git@vaprd078.schneider.com:puppet/hpsu_linux_base.git',
-  :tag => '0.3.4'
+  :tag => '0.4.2'
